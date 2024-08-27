@@ -1,4 +1,4 @@
-
+//
 //კალათაში პროდუქტის დამატება.
 
 import userData from '../fixtures/example.json'
