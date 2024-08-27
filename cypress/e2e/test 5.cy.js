@@ -1,3 +1,4 @@
+//
 //კალათაში პროდუქტის დამატება, რაოდენობის გაზრდა და კალათიდან ამოშლა.
 
 import userData from '../fixtures/example.json'
